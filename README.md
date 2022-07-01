@@ -36,7 +36,9 @@ Training: Start the training by using command: python train.py
 
 # Proposed results
 
-The proposed network is trained and evaluated on three different preson re-id datasets, graphical representation of the
+![framework](figs/LF_HFCM.png)
+
+The proposed network is trained and evaluated on three different preson re-id datasets, representation of the
 results is given below:
 
 ![framework](figs/sota.png)
