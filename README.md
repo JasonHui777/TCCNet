@@ -1,7 +1,7 @@
 # Heterogeneous Feature-aware Transformer-CNN Coupling Network for Person Re-identification
 
 ![framework](figs/framework.png)
-<img src="./figs/framework.png" style="zoom:%" />
+<img src="./figs/framework.png" style="zoom:50%" />
 Person re-identification (re-id) identifies a query person in multiple non overlapping camera views where the same
 person appears in different poses, angles and views under different illumination conditions.
 
